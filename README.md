@@ -189,36 +189,26 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 
 <br/>
 
-<!-- ===================== ABOUT ME ===================== -->
-## ⚡ Beyond the Code
+<!-- ===================== DEVELOPER PROFILE ===================== -->
+## ⚡ Quick Profile
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<pre lang="yaml"><code>how_i_work:
+  superpower: "Picking up new things fast—Spring Boot, FAISS, PyTorch, or whatever solves the problem."
+  mindset:    "Super curious. I keep asking 'how' and 'why' until things actually click."
+  team_vibe:  "Love collaborating. Good ideas come from conversations, not solo sprints."
 
-### 🛠️ Engineering Mindset
-* **Rapid Adapter:** I pick up new stacks fast and focus on solving real-world bottlenecks—whether that means diving into Spring Boot, FAISS, or PyTorch to get the job done.
-* **First-Principles Curiosity:** I don't just use abstractions; I like digging into the *how* and *why* under the hood until the architecture clicks.
-* **Collaborative Builder:** The best systems rarely come from a solo sprint. I thrive in team environments where ideas are stress-tested through great conversations.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 Off the Clock
-* **Competitive Spirit:** When I'm away from the terminal, you'll find me playing console games or physical sports—anything with a skill ceiling to climb.
-* **Food & Travel:** Always up for exploring new cities and trying local cuisines.
-* **Let's Connect:** Building something interesting or hiring for 2027? Reach out at **[yash.sigchi08@gmail.com](mailto:yash.sigchi08@gmail.com)**.
-
-</td>
-</tr>
-</table>
+when_afk:
+  playing:    ["Video Games", "Physical Sports"]
+  exploring:  "New cities & every cuisine I haven't tried yet"
+  say_hello:  "yash.sigchi08@gmail.com"</code></pre>
+  
 <br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide_rank=true&hide=stars,issues,contribs" alt="GitHub stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
 </div>
 
