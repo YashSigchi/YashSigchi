@@ -102,17 +102,17 @@ Final-year **B.Tech CSE (AI & ML)** student at **VIT Chennai** (graduating 2027)
 <tr>
 <td align="center" width="33%">
   <a href="https://github.com/YashSigchi/Society_maintenance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=Society_maintenance&theme=tokyonight&hide_border=true&border_radius=10" alt="SocietyHub"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=Society_maintenance&theme=tokyonight&hide_border=true&border_radius=10&v=2" alt="SocietyHub"/>
   </a>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/YashSigchi/AI-Powered-Customer-Support">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=AI-Powered-Customer-Support&theme=tokyonight&hide_border=true&border_radius=10" alt="AI-Powered Customer Support"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=AI-Powered-Customer-Support&theme=tokyonight&hide_border=true&border_radius=10&v=2" alt="AI-Powered Customer Support"/>
   </a>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/YashSigchi/FAERS_ADR-XAI_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=FAERS_ADR-XAI_Dashboard&theme=tokyonight&hide_border=true&border_radius=10" alt="FAERS ADR XAI Dashboard"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=FAERS_ADR-XAI_Dashboard&theme=tokyonight&hide_border=true&border_radius=10&v=2" alt="FAERS ADR XAI Dashboard"/>
   </a>
 </td>
 </tr>
@@ -189,66 +189,24 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 
 <br/>
 
-<!-- ===================== PLAYER PROFILE (GAME) ===================== -->
-## 🎮 Player Profile
+<!-- ===================== DEVELOPER PROFILE ===================== -->
+## ⚡ Developer Profile
 
-<sub>Press start: open each quest to unlock a little more about me.</sub>
+```yaml
+engineering_approach:
+  learning_style: "Fast adapter — from Spring Boot to FAISS to PyTorch, I learn whatever the problem requires."
+  philosophy:     "Driven by curiosity; I dig into the 'how' and 'why' until the system clicks."
+  collaboration:  "Team-first. The best architectures come from good conversations, not solo sprints."
 
-<details>
-<summary><b>⚡ Quest 1 · How do I learn?</b></summary>
-<br/>
-
-🏆 **Achievement unlocked: Fast Learner.** I pick things up quickly and thrive on solving real-world problems. From Spring Boot to FAISS to PyTorch, I'll learn whatever the problem needs.
-
-</details>
-
-<details>
-<summary><b>🎮 Quest 2 · What do I do for fun?</b></summary>
-<br/>
-
-🏆 **Achievement unlocked: Player Two.** I love playing video games and physical sports, anything where there's something to play, compete in, and get better at.
-
-</details>
-
-<details>
-<summary><b>✈️ Quest 3 · Where would you find me?</b></summary>
-<br/>
-
-🏆 **Achievement unlocked: Explorer.** I love travelling and trying all kinds of food. New places and new cuisines are my favorite way to find out what I don't know yet.
-
-</details>
-
-<details>
-<summary><b>🤝 Quest 4 · How do I work with people?</b></summary>
-<br/>
-
-🏆 **Achievement unlocked: Team Player.** I love to collaborate and interact with all sorts of people. Good ideas usually come from a conversation, not a solo sprint.
-
-</details>
-
-<details>
-<summary><b>🔍 Quest 5 · What drives me?</b></summary>
-<br/>
-
-🏆 **Achievement unlocked: Curious Mind.** I have a lot of curiosity, and I keep asking how and why until things click.
-
-</details>
-
-<details>
-<summary><b>🎁 Bonus level · All quests complete?</b></summary>
-<br/>
-
-Then let's talk. The best way to know me is a conversation: **yash.sigchi08@gmail.com**
-
-</details>
-
-<br/>
+off_the_clock:
+  interests:      ["Video Games", "Sports", "Travel", "Exploring New Cuisines"]
+  contact:        "yash.sigchi08@gmail.com"
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide_rank=true&hide=stars,issues,contribs" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
 </div>
 
