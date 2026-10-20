@@ -192,12 +192,38 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 <!-- ===================== BEYOND THE CODE ===================== -->
 ## ⚡ Beyond the Code
 
-* **Fast learner:** I love solving real-world problems and picking up whatever tools the job needs—from **React and Spring Boot** to **FAISS and PyTorch**.
-* **Curious by nature:** I'm never satisfied with "it just works"—I like poking around under the hood until I understand *why* it works.
-* **Team player:** I genuinely enjoy working with people. The best features usually start as a casual conversation rather than a solo coding marathon.
-* **AFK:** When my laptop is closed, you'll find me playing console games, playing sports, traveling somewhere new, or hunting for great food.
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+  <b>⚡ Fast Learner</b><br/>
+  <img src="https://img.shields.io/badge/Focus-Real_World_Problems-7aa2f7?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Stack-React_%7C_Spring_Boot_%7C_FAISS_%7C_PyTorch-bb9af7?style=flat-square&labelColor=1a1b27" />
+</td>
+<td align="center" width="50%">
+  <b>🔍 Curious by Nature</b><br/>
+  <img src="https://img.shields.io/badge/Mindset-How_%26_Why-7dcfff?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Style-Under_the_Hood-9ece6a?style=flat-square&labelColor=1a1b27" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <b>🤝 Team Player</b><br/>
+  <img src="https://img.shields.io/badge/Vibe-Collaborative-e0af68?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Approach-Conversations_%3E_Solo_Sprints-7aa2f7?style=flat-square&labelColor=1a1b27" />
+</td>
+<td align="center" width="50%">
+  <b>🎮 When AFK</b><br/>
+  <img src="https://img.shields.io/badge/Play-Console_Games_%7C_Sports-f7768e?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Explore-Travel_%7C_New_Cuisines-bb9af7?style=flat-square&labelColor=1a1b27" />
+</td>
+</tr>
+</table>
 
-💬 **Want to chat or build something together?** Drop me a line at **[yash.sigchi08@gmail.com](mailto:yash.sigchi08@gmail.com)**
+<a href="mailto:yash.sigchi08@gmail.com">
+  <img src="https://img.shields.io/badge/💬_Want_to_chat_or_build_together%3F-yash.sigchi08%40gmail.com-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Email"/>
+</a>
+</div>
   
 <br/>
 
@@ -205,8 +231,8 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide_rank=true&hide=stars,issues,contribs" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide_rank=true&hide=stars,issues,contribs&line_height=42&card_width=320" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&card_width=320" alt="Top languages"/>
 </div>
 
 <br/>
