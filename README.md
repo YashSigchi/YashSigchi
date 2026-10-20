@@ -232,7 +232,7 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide_rank=true&hide=stars,issues,contribs&line_height=42&card_width=320" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&card_width=320" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&border_radius=10&card_width=320" alt="Top languages"/>
 </div>
 
 <br/>
