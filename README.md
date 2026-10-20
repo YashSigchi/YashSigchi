@@ -11,10 +11,12 @@
 
 <a href="https://www.linkedin.com/in/yash-sigchi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://yashsigchi-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=render&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:yash.sigchi08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://drive.google.com/file/d/1WBRGBn7Cl6qCLnvZ8OMbBgCU8rtofN_l/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-16A34A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<a href="mailto:yash.sigchi08@gmail.com"><img src="https://img.shields.io/badge/yash.sigchi08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
+<br/>
+
+📧 **yash.sigchi08@gmail.com**
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%26%20Full--time%20%7C%20India%20%2B%20Remote-22C55E?style=flat-square" alt="Open to work"/>
 
@@ -27,8 +29,8 @@
 <table>
   <tr>
     <td align="center" width="180"><h2>100+</h2><sub>users on a production<br/>workflow system</sub></td>
-    <td align="center" width="180"><h2>8-stage</h2><sub>approval workflow<br/>with RBAC &amp; audit logs</sub></td>
     <td align="center" width="180"><h2>300+</h2><sub>ADR labels predicted<br/>with explainable ML</sub></td>
+    <td align="center" width="180"><h2>241</h2><sub>LeetCode problems<br/>solved</sub></td>
     <td align="center" width="180"><h2>8.72</h2><sub>CGPA · B.Tech CSE<br/>(AI &amp; ML), VIT</sub></td>
   </tr>
 </table>
@@ -39,8 +41,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About Me
 
-> [!NOTE]
-> Final-year **B.Tech CSE (AI & ML)** student at **VIT Chennai** (graduating 2027), based in Jaipur. I build backend-heavy web systems and applied ML pipelines, and I care about the unglamorous parts that make software real: access control, audit trails, deployment, and explainability.
+Final-year **B.Tech CSE (AI & ML)** student at **VIT Chennai** (graduating 2027), based in Jaipur. I build backend-heavy web systems and applied ML pipelines, and I care about the unglamorous parts that make software real: access control, audit trails, deployment, and explainability.
 
 - 🏭 Shipped an enterprise requisition system for **100+ users** at **NBC Bearings (CKA Birla Group)**
 - 🤖 Building **RAG and multi-agent** AI workflows with human-in-the-loop safeguards
@@ -126,31 +127,16 @@ Deployed maintenance platform managing user complaints, file attachments, and au
 - **Cloudinary** for image ingestion, **Nodemailer** for notifications
 - **SLA-based scheduled jobs**; APIs secured with **JWT/RBAC**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
 ### 🤖 AI-Powered Customer Support Automation &nbsp;·&nbsp; [Repo](https://github.com/YashSigchi/AI-Powered-Customer-Support)
 Stateful multi-agent workflow routing queries across **Sales, Technical, Billing, and Account** agents.
 - **RAG with FAISS** to retrieve documentation and ground LLM responses
 - Persistent **SQLite** storage for conversation history and cross-session context
 - **Human-in-the-loop** validation for sensitive actions
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
-
 ### 💊 FAERS ADR Multi-label Inference & XAI Dashboard &nbsp;·&nbsp; [Repo](https://github.com/YashSigchi/FAERS_ADR-XAI_Dashboard)
 End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction labels**.
 - Processed patient, drug, and clinical data; **PyTorch EmbeddingBag** model served via **FastAPI**
 - **XAI dashboard** using LIME, Integrated Gradients, and counterfactual analysis
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LIME](https://img.shields.io/badge/LIME-8A2BE2?style=flat-square)
-![XAI](https://img.shields.io/badge/Explainable%20AI-6366F1?style=flat-square)
 
 <br/>
 
@@ -161,13 +147,30 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 
 | | |
 |:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,js&theme=dark" alt="languages"/> &nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi&theme=dark" alt="backend"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="frontend"/> |
-| **Data & Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="databases"/> &nbsp;<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="pytorch"/> &nbsp;<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS"/> <img src="https://img.shields.io/badge/LIME-8A2BE2?style=flat-square" alt="LIME"/> <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" alt="RAG"/> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github&theme=dark" alt="devops"/> |
-| **Learning** | <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="aws"/> &nbsp;<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/> |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Data & Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge) ![LIME](https://img.shields.io/badge/LIME-8A2BE2?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Learning** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Lakehouse](https://img.shields.io/badge/Lakehouse-0F766E?style=for-the-badge) |
+
+</div>
+
+<br/>
+
+<!-- ===================== COMPETITIVE PROGRAMMING ===================== -->
+## 🧩 Problem Solving
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-241_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Jt92Bwt9p3/)
+![Easy](https://img.shields.io/badge/Easy-107-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-116-FFC01E?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-18-EF4743?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Badge-Top_SQL_50-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+
+<sub>445 submissions in the past year</sub>
 
 </div>
 
@@ -188,14 +191,67 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 
 <br/>
 
+<!-- ===================== PLAYER PROFILE (GAME) ===================== -->
+## 🎮 Player Profile
+
+<sub>Press start: open each quest to unlock a little more about me.</sub>
+
+<details>
+<summary><b>⚡ Quest 1 · How do I learn?</b></summary>
+<br/>
+
+🏆 **Achievement unlocked: Fast Learner.** I pick things up quickly and thrive on solving real-world problems. From Spring Boot to FAISS to PyTorch, I'll learn whatever the problem needs.
+
+</details>
+
+<details>
+<summary><b>🎮 Quest 2 · What do I do for fun?</b></summary>
+<br/>
+
+🏆 **Achievement unlocked: Player Two.** I love playing video games and physical sports, anything where there's something to play, compete in, and get better at.
+
+</details>
+
+<details>
+<summary><b>✈️ Quest 3 · Where would you find me?</b></summary>
+<br/>
+
+🏆 **Achievement unlocked: Explorer.** I love travelling and trying all kinds of food. New places and new cuisines are my favorite way to find out what I don't know yet.
+
+</details>
+
+<details>
+<summary><b>🤝 Quest 4 · How do I work with people?</b></summary>
+<br/>
+
+🏆 **Achievement unlocked: Team Player.** I love to collaborate and interact with all sorts of people. Good ideas usually come from a conversation, not a solo sprint.
+
+</details>
+
+<details>
+<summary><b>🔍 Quest 5 · What drives me?</b></summary>
+<br/>
+
+🏆 **Achievement unlocked: Curious Mind.** I have a lot of curiosity, and I keep asking how and why until things click.
+
+</details>
+
+<details>
+<summary><b>🎁 Bonus level · All quests complete?</b></summary>
+<br/>
+
+Then let's talk. The best way to know me is a conversation: **yash.sigchi08@gmail.com**
+
+</details>
+
+<br/>
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=YashSigchi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
 </div>
 
 <br/>
@@ -213,6 +269,8 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 <!-- ===================== CONTACT ===================== -->
 ## 📬 Let's Connect
 
-I'm looking for **Software Engineer, ML Engineer, and Full-Stack** roles (India + remote). The fastest way to reach me is by [email](mailto:yash.sigchi08@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yash-sigchi/).
+I'm looking for **Software Engineer, ML Engineer, and Full-Stack** roles (India + remote).
+
+📧 **yash.sigchi08@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yash-sigchi/) &nbsp;·&nbsp; [Portfolio](https://yashsigchi-portfolio.onrender.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer"/>
