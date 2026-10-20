@@ -16,8 +16,6 @@
 
 <br/>
 
-📧 **yash.sigchi08@gmail.com**
-
 <img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%26%20Full--time%20%7C%20India%20%2B%20Remote-22C55E?style=flat-square" alt="Open to work"/>
 
 </div>
@@ -250,8 +248,8 @@ Then let's talk. The best way to know me is a conversation: **yash.sigchi08@gmai
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashSigchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide_rank=true&hide=stars,issues,contribs" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
 </div>
 
 <br/>
