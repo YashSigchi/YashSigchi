@@ -189,18 +189,15 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 
 <br/>
 
-<!-- ===================== DEVELOPER PROFILE ===================== -->
-## ⚡ Quick Profile
+<!-- ===================== BEYOND THE CODE ===================== -->
+## ⚡ Beyond the Code
 
-<pre lang="yaml"><code>how_i_work:
-  superpower: "Picking up new things fast—Spring Boot, FAISS, PyTorch, or whatever solves the problem."
-  mindset:    "Super curious. I keep asking 'how' and 'why' until things actually click."
-  team_vibe:  "Love collaborating. Good ideas come from conversations, not solo sprints."
+* **Fast learner:** I love solving real-world problems and picking up whatever tools the job needs—from **React and Spring Boot** to **FAISS and PyTorch**.
+* **Curious by nature:** I'm never satisfied with "it just works"—I like poking around under the hood until I understand *why* it works.
+* **Team player:** I genuinely enjoy working with people. The best features usually start as a casual conversation rather than a solo coding marathon.
+* **AFK:** When my laptop is closed, you'll find me playing console games, playing sports, traveling somewhere new, or hunting for great food.
 
-when_afk:
-  playing:    ["Video Games", "Physical Sports"]
-  exploring:  "New cities & every cuisine I haven't tried yet"
-  say_hello:  "yash.sigchi08@gmail.com"</code></pre>
+💬 **Want to chat or build something together?** Drop me a line at **[yash.sigchi08@gmail.com](mailto:yash.sigchi08@gmail.com)**
   
 <br/>
 
