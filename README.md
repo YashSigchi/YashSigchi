@@ -189,18 +189,30 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 
 <br/>
 
-<!-- ===================== DEVELOPER PROFILE ===================== -->
-## ⚡ Developer Profile
+<!-- ===================== ABOUT ME ===================== -->
+## ⚡ Beyond the Code
 
-```yaml
-engineering_approach:
-  learning_style: "Fast adapter — from Spring Boot to FAISS to PyTorch, I learn whatever the problem requires."
-  philosophy:     "Driven by curiosity; I dig into the 'how' and 'why' until the system clicks."
-  collaboration:  "Team-first. The best architectures come from good conversations, not solo sprints."
+<table>
+<tr>
+<td width="50%" valign="top">
 
-off_the_clock:
-  interests:      ["Video Games", "Sports", "Travel", "Exploring New Cuisines"]
-  contact:        "yash.sigchi08@gmail.com"
+### 🛠️ Engineering Mindset
+* **Rapid Adapter:** I pick up new stacks fast and focus on solving real-world bottlenecks—whether that means diving into Spring Boot, FAISS, or PyTorch to get the job done.
+* **First-Principles Curiosity:** I don't just use abstractions; I like digging into the *how* and *why* under the hood until the architecture clicks.
+* **Collaborative Builder:** The best systems rarely come from a solo sprint. I thrive in team environments where ideas are stress-tested through great conversations.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Off the Clock
+* **Competitive Spirit:** When I'm away from the terminal, you'll find me playing console games or physical sports—anything with a skill ceiling to climb.
+* **Food & Travel:** Always up for exploring new cities and trying local cuisines.
+* **Let's Connect:** Building something interesting or hiring for 2027? Reach out at **[yash.sigchi08@gmail.com](mailto:yash.sigchi08@gmail.com)**.
+
+</td>
+</tr>
+</table>
+<br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
