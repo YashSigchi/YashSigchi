@@ -102,22 +102,23 @@ Final-year **B.Tech CSE (AI & ML)** student at **VIT Chennai** (graduating 2027)
 <tr>
 <td align="center" width="33%">
   <a href="https://github.com/YashSigchi/Society_maintenance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=Society_maintenance&theme=tokyonight&hide_border=true&border_radius=10&v=2" alt="SocietyHub"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=Society_maintenance&theme=tokyonight&show_owner=true&hide_border=true" alt="SocietyHub"/>
   </a>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/YashSigchi/AI-Powered-Customer-Support">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=AI-Powered-Customer-Support&theme=tokyonight&hide_border=true&border_radius=10&v=2" alt="AI-Powered Customer Support"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=AI-Powered-Customer-Support&theme=tokyonight&show_owner=true&hide_border=true" alt="AI-Powered Customer Support"/>
   </a>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/YashSigchi/FAERS_ADR-XAI_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=FAERS_ADR-XAI_Dashboard&theme=tokyonight&hide_border=true&border_radius=10&v=2" alt="FAERS ADR XAI Dashboard"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSigchi&repo=FAERS_ADR-XAI_Dashboard&theme=tokyonight&show_owner=true&hide_border=true" alt="FAERS ADR XAI Dashboard"/>
   </a>
 </td>
 </tr>
 </table>
 </div>
+
 
 ### 🏘️ SocietyHub &nbsp;·&nbsp; [Repo](https://github.com/YashSigchi/Society_maintenance) &nbsp;·&nbsp; [Live Demo](https://society-maintenance-i33v.onrender.com/)
 Deployed maintenance platform managing user complaints, file attachments, and audit trails.
@@ -231,8 +232,8 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=YashSigchi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=YashSigchi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSigchi&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </div>
 
 <br/>
