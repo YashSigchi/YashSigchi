@@ -252,6 +252,6 @@ End-to-end ML pipeline on FAERS data predicting **300+ adverse drug reaction lab
 
 I'm looking for **Software Engineer, ML Engineer, and Full-Stack** roles (India + remote).
 
-📧 **yash.sigchi08@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yash-sigchi/) &nbsp;·&nbsp; [Portfolio](https://yashsigchi-portfolio.onrender.com)
+📧 **yash.sigchi08@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yash-sigchi/) &nbsp;·&nbsp; [Portfolio](https://yash-sigchi-portfolio.onrender.com/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer"/>
