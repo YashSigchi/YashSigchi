@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/yash-sigchi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://yashsigchi-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=render&logoColor=white" alt="Portfolio"/></a>
+<a href="https://yash-sigchi-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=render&logoColor=white" alt="Portfolio"/></a>
 <a href="https://drive.google.com/file/d/1WBRGBn7Cl6qCLnvZ8OMbBgCU8rtofN_l/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-16A34A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 <a href="mailto:yash.sigchi08@gmail.com"><img src="https://img.shields.io/badge/yash.sigchi08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
